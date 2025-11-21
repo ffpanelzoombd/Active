@@ -12,3 +12,17 @@
         "Allowoffline": false
     }
 ]
+[
+    {
+        "device_id": "",
+        "key": "akash",
+        "expirydate": "23-11-2025",
+        "Allowoffline": true
+    },
+    {
+        "device_id": "f9ac626deaef13dc",
+        "key": "akashbahi",
+        "expirydate": "23-11-2025",
+        "Allowoffline": false
+    }
+]
