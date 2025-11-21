@@ -1,22 +1,14 @@
 [
     {
         "device_id": "f9ac626deaef13dc",
-        "key": "akashbahi",
-        "expirydate": "31-12-2025",
+        "key": "akash",
+        "expirydate": "23-11-2025",
         "Allowoffline": true
     },
     {
-        "device_id": "f9ac626deaef13dc",
-        "key": "akash",
-        "expirydate": "23-11-2025",
-        "Allowoffline": false
-    }
-]
-[
-    {
         "device_id": "5634b41b1d9e7e44",
-        "key": "AKASH",
-        "expirydate": "29-11-2025",
+        "key": "akash",
+        "expirydate": "25-11-2025",
         "Allowoffline": false
     }
 ]
