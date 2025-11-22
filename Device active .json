@@ -2,8 +2,7 @@
     {
         "device_id": "f9ac626deaef13dc",
         "key": "AKASH",
-        "expirydate": "22-11-2025",
-        "device": "1"
+        "expirydate": "23-11-2025",
         "Allowoffline": true
     },
     {
@@ -16,7 +15,7 @@
     {
         "device_id": "f9ac626deaef13dc",
         "key": "paidmal",
-        "expirydate": "23-11-2025",
+        "expirydate": "22-11-2025",
         "Allowoffline": false
     }
 ]
