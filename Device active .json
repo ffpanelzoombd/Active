@@ -6,7 +6,7 @@
         "Allowoffline": true
     },
     {
-        "device_id": "f9ac626deaef13dc",
+        "device_id": "m",
         "key": "key1",
         "expirydate": "22-11-2025",
         "Allowoffline": false
@@ -474,8 +474,8 @@
         "Allowoffline": false
     },
     {
-        "device_id": "e7e11b59ec54a0c4",
-        "key": "muzammel12",
+        "device_id": "f9ac626deaef13dc",
+        "key": "1d",
         "expirydate": "22-11-2025",
         "Allowoffline": false
     },
